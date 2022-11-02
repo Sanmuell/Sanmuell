@@ -1,5 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sanmuell</h1>
 - 🔥 Junior Developer
+
+
+
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -28,15 +32,11 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmuell&layout=compact&theme=vision-friendly-dark" alt="sanmuell's most languages"/>
 </p>
 <br>
+</p>
 # Contact
 <p align="left" style="background:yellow">
 
 <a href="https://linkedin.com/in/sanmuell" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-</p>
-
-
-
-<br/>
-
+  </br>
