@@ -27,10 +27,8 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=sanmuell&show_icons=true&theme=vision-friendly-dark" alt="sanmuell's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmuell&layout=compact&theme=vision-friendly-dark" alt="sanmuell's most languages"/>
 </p>
-<br><br>
-
-## Contact
-
+<br>
+# Contact
 <p align="left" style="background:yellow">
 
 <a href="https://linkedin.com/in/sanmuell" target="_blank">
@@ -38,7 +36,6 @@
 </a>
 </p>
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
 <br/>
