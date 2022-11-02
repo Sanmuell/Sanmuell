@@ -3,7 +3,6 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![Linkedin](https://img.shields.io/badge/-Sanmuell_Sousa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanmuell/)
-[![Instagram](https://img.shields.io/badge/-sanmuell.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sachinchaturvedi93/)
 [![Gmail](https://img.shields.io/badge/-sanmuell.i@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachin93@gmail.com)
 
 <br> <br> <br> <br> 
@@ -17,7 +16,6 @@ You can use the website to generate badges: https://shields.io/
   [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
 
  **SQL:**
