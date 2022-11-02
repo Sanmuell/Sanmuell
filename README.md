@@ -3,7 +3,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 [![Linkedin](https://img.shields.io/badge/-Sanmuell_Sousa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanmuell/)
-<br> <br> <br> <br> 
+<br> <br>
 ### Languages and Tools:
  **Java**:
 <br> 
