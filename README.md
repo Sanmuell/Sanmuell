@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Sanmuell</h1>
 - 🔥 Junior Developer
-
-- 🔭 I’m currently working on Senior Sistemas https://www.senior.com.br/ ...
+<br>
+- 🔭 I’m currently working on Senior Sistemas https://www.senior.com.br/
 
 ## Contact
 <p align="left" style="background:yellow">
